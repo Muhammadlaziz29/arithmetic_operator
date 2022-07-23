@@ -10,6 +10,6 @@ void main() {
   //write your code here
   int a = 6;
   int b = 2;
-  var answer = a += b;
+  var answer = a -= b;
   print(answer);
 }
