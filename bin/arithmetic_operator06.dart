@@ -9,4 +9,9 @@ Find the sum of a, b and c then assign to "answer".
 */
 void main() {
   //write your code here
+  int a = 7;
+  int b = 3;
+  int c = 5;
+  var answer = a+b+c;
+  print (answer);
 }
